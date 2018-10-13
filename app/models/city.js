@@ -5,10 +5,8 @@ const citySchema = new Schema({
         type: String,
         required: true
     }
-}) 
-
+});
 const City = mongoose.model('City',citySchema);
-
 module.exports = {
     City
 }
