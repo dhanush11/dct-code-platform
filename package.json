@@ -17,5 +17,9 @@
     "url": "https://github.com/dhanush11/dct-code-platform/issues"
   },
   "homepage": "https://github.com/dhanush11/dct-code-platform#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.3",
+    "morgan": "^1.9.1"
+  }
 }
