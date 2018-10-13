@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/dhanush11/dct-code-platform/issues"
   },
-  "homepage": "https://github.com/dhanush11/dct-code-platform#readme"
+  "homepage": "https://github.com/dhanush11/dct-code-platform#readme",
+  "dependencies": {}
 }
